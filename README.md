@@ -3,7 +3,7 @@
 
 ![Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachmanzz&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachmanzz&exclude_repo=rachmanzz,rachmanzz.github.io)](https://github.com/rachmanzz/rachmanzz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachmanzz&exclude_repo=rachmanzz,rachmanzz.github.io&layout=compact)](https://github.com/rachmanzz/rachmanzz)
 
 <!--
 **rachmanzz/rachmanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
