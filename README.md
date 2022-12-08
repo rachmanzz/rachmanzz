@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Node.js backend developer with more than 3 years of experience. I have worked on a wide range of projects and have a deep understanding of Node.js. I am confident that I can help you develop a robust and secure Node.js backend for your project.
+I am a Node.js backend developer with more than 3 years of experience. I have worked on a wide range of projects and have a deep understanding of Node.js. I am confident that I can help you develop a robust and secure Node.js backend.
 
 - Design and implement a Node.js backend architecture that meets the specific requirements of your project.
 - Utilize latest Node.js frameworks, libraries, and tools to ensure scalability and performance.
