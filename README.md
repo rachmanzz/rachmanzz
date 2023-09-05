@@ -11,9 +11,7 @@ Detail :
 - Deploy the backend and monitor for any issues or performance issues.
 - Provide ongoing maintenance and support for the backend.
 
-![Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachmanzz&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachmanzz&exclude_repo=rachmanzz,rachmanzz.github.io&layout=compact)](https://github.com/rachmanzz/rachmanzz)
 
 <!--
 **rachmanzz/rachmanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
