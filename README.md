@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an experienced Node.js backend developer with over 3+ years of experience. My preferred language is Typescript, which I have used to develop backend solutions in a variety of fields. I am an good in the development and maintenance of Node.js applications, and have a good understanding of the Node.js ecosystem and related technologies. I am also experienced in creating and managing REST APIs, developing web services, and integrating them with external systems. I am highly organized and disciplined in my work, and I strive to deliver high-quality solutions on time and within budget.
+I am a seasoned Node.js backend developer with over 3 years of professional experience in the corporate sector and an additional 5 years as a freelancer. My language of choice is Typescript, which I have skillfully utilized to craft backend solutions spanning a wide array of domains. I excel in the development and maintenance of Node.js applications, boasting a deep comprehension of the Node.js ecosystem and its associated technologies. My expertise extends to the creation and management of REST APIs, the development of web services, and their seamless integration with external systems. Known for my unwavering commitment to organization and discipline in my work, I consistently strive to deliver top-tier solutions promptly and within budget.
 
 Detail :
 
