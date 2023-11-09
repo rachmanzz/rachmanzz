@@ -14,7 +14,7 @@ Detail :
 
 
 
-[twitter url="https://twitter.com/rahman_1st"]
+[twitter](https://twitter.com/rahman_1st)
 
 <!--
 **rachmanzz/rachmanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
