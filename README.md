@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Node.js developer who primarily focuses on backend development but can also handle full-stack projects when necessary. With over 3 years of professional experience in the corporate sector and an additional 5 years of freelancing, I specialize in using Typescript to create backend solutions across various domains. My core expertise lies in building and maintaining Node.js applications, alongside a deep understanding of the Node.js ecosystem and related technologies. While my primary role is backend development, I also have experience in creating and managing REST APIs, developing web services, and integrating them with external systems. My reputation is built on strong organizational skills and a disciplined work ethic, always aiming to deliver high-quality solutions on time and within budget.
+I'm a Node.js developer with a focus on backend work, capable of handling full-stack projects as needed. With over 3 years in corporate settings and an additional 5 years freelancing, I specialize in using Typescript to craft backend solutions across various fields. My strength lies in building and maintaining Node.js applications and understanding the Node.js ecosystem. Although my primary role is backend development, I also excel in creating REST APIs, developing web services, and integrating them with external systems. I'm committed to delivering quality solutions promptly and within budget, leveraging strong organization and a disciplined work ethic.
 
 As for my specific roles and responsibilities, here are some of the key details :
 
