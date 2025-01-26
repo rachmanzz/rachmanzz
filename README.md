@@ -7,7 +7,7 @@ Fullstack Developer (prefer backend)
 I'm a Node.js developer with a focus on backend work, capable of handling full-stack projects as needed. With over 3 years in corporate settings and an additional 5 years freelancing, I specialize in using Typescript to craft backend solutions across various fields.
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [rachman.sd@gmail.com](mailto:rachman.sd@gmail.com)
+* ✉️  Open to discussions via [calendly](https://calendly.com/rachmanzz/your-mission)
 * 🤝  I'm open to collaborating on open source project such as ReactJS, react-native, goFiber, Hono, etc
 
 ### Skills
